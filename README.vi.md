@@ -41,6 +41,7 @@ Các nơi này tự crawl GitHub công khai và các endpoint hosted — bạn c
 - [Glama](https://glama.ai/mcp/servers) — Registry + inspector lớn, tự lập chỉ mục server mã nguồn mở từ GitHub, trích xuất mọi tool/schema/annotation và chấm điểm chất lượng. Claim server để quản lý listing và badge.
 - [PulseMCP](https://www.pulsemcp.com/) — Directory được bảo trì tích cực, cập nhật nhanh, hỗ trợ mạnh server remote HTTP. Nộp tại [pulsemcp.com/submit](https://www.pulsemcp.com/submit).
 - [mcp.so](https://mcp.so/) — Một trong những directory MCP lớn nhất, lượng truy cập cao. Nộp qua form web tại [mcp.so/submit](https://mcp.so/submit).
+- [mcpnav](https://mcpnav.dev/) — Directory MCP server dựng từ Official MCP Registry và hai awesome list punkpeye/wong2, kèm cấu hình kết nối tự sinh và kiểm tra endpoint; không có form nộp — publish lên Registry hoặc được merge vào một trong hai list là sẽ được lấy vào ở lần cập nhật kế tiếp (xem mcpnav.dev/submit).
 
 ## Directory & Registry nộp thủ công
 
