@@ -49,6 +49,7 @@ Các nơi này cần một submission rõ ràng — form web, publish qua CLI, h
 - [Smithery](https://smithery.ai/) — Registry phổ biến được nhiều dev dùng; publish bằng CLI `smithery` hoặc kết nối repo GitHub (khai báo transport, ví dụ `http`).
 - [Cursor Directory](https://cursor.directory/mcp) — Directory MCP cho cộng đồng đông đảo của editor Cursor; nộp qua form web.
 - [mcpservers.org](https://mcpservers.org/) — Directory cộng đồng gọn nhẹ; nộp nhanh qua web / GitHub.
+- [MeetNewAI](https://meetnewai.com/mcp) — Directory công khai các MCP server (cũng có AI tools, game và agent skills). Nộp tại [meetnewai.com/submit](https://meetnewai.com/submit) (cần đăng nhập; email/mật khẩu hoặc Google).
 - [Fleur](https://www.fleurmcp.com/) — Marketplace kiểu app-store cho MCP; nộp server để được niêm yết.
 - [mcp.run](https://mcp.run/) — Registry/runtime hosted cho các "servlet" MCP; publish để server cài đặt được.
 

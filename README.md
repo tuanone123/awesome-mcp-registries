@@ -49,6 +49,7 @@ These expect an explicit submission — a web form, a CLI publish, or a GitHub c
 - [Smithery](https://smithery.ai/) — Popular registry used by many developers; publish via the `smithery` CLI or connect a GitHub repo (declare transport, e.g. `http`).
 - [Cursor Directory](https://cursor.directory/mcp) — MCP directory for the large Cursor editor community; submit via its web form.
 - [mcpservers.org](https://mcpservers.org/) — Lightweight community directory; quick web / GitHub submission.
+- [MeetNewAI](https://meetnewai.com/mcp) — Public directory of MCP servers (also AI tools, games and agent skills). Submit at [meetnewai.com/submit](https://meetnewai.com/submit) (sign-in required; email/password or Google).
 - [Fleur](https://www.fleurmcp.com/) — App-store-style marketplace for MCP; submit your server for listing.
 - [mcp.run](https://mcp.run/) — Hosted registry/runtime for MCP "servlets"; publish to make servers installable.
 
